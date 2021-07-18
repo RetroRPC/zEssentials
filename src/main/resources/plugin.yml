@@ -1,0 +1,5 @@
+name: zEssentials
+author: RetroRPC
+version: 1.0
+main: org.xerapvp.essentials.Core
+commands:
